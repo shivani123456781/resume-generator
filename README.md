@@ -4,7 +4,7 @@
 
 ![img](images/screenshot.png)
 
-## Docs
+## Documents
 
 ### Running locally
 
